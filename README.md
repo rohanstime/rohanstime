@@ -1,6 +1,6 @@
 <img align="center" alt="cover" src="https://github.com/rohanstime/rohanstime/blob/main/Picsart_23-05-29_23-41-38-228.jpg">
 
-<h1 align="center">Hello 👋 It's me, Muhammad Rohan</h1>
+<h1 align="center">Hello 😀 It's me, Muhammad Rohan</h1>
 
 <h3 align="center">Speed Learner</h3>
 
@@ -12,7 +12,7 @@
 
 </div>
 
-<img align ="right" alt="code" width="200" src="https://github.com/rohanstime/rohanstime/blob/main/320984a9ca58b3c73274c9259ecf6de8.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohanstime" alt="rohanstime" /></a> </p>
 
